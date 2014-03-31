@@ -1,6 +1,8 @@
 *~
 .DS_Store
 
+Cpptest/bin/
+
 # Compiled Object files
 *.slo
 *.lo
